@@ -2,14 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class rotateObject : MonoBehaviour
+public class SpinPropellerX : MonoBehaviour
 {
     public float rotationSpeed = 25;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
     void Update()
